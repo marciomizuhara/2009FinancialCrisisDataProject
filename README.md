@@ -12,4 +12,4 @@ This data project focus on exploratory data analysis of stock prices, more speci
 * Plotly
 * Cufflinks
 
-Note: As for August 2021, Google Finance API was not retrieving data, so I decided to use Yahoo Finance's instead.
+![image](https://user-images.githubusercontent.com/52802728/128573920-b2adf93d-9d12-467c-a4b9-7d3ed31786e2.png)
